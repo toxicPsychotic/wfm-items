@@ -18,7 +18,7 @@
         "en": {
             "item_name": "Abating Link",
             "description": "Link Augment: Reduces Armor Rating by 60% on enemies targeted by Link.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Abating_Link",
+            "wiki_link": "https://wiki.warframe.com/w/Abating_Link",
             "icon": "items/images/en/abating_link.c547fa09315093a5ba6c609a9b195580.png",
             "thumb": "items/images/en/thumbs/abating_link.c547fa09315093a5ba6c609a9b195580.128x128.png"
         },
@@ -32,7 +32,7 @@
         "ko": {
             "item_name": "어베이팅 링크",
             "description": "링크 개조: 링크의 대상이 된 적의 방어력을 60%만큼 감소시킵니다.",
-            "wiki_link": "http://warframe.wikia.com/wiki/Abating_Link",
+            "wiki_link": "https://wiki.warframe.com/w/Abating_Link",
             "icon": "items/images/en/abating_link.c547fa09315093a5ba6c609a9b195580.png",
             "thumb": "items/images/en/thumbs/abating_link.c547fa09315093a5ba6c609a9b195580.128x128.png"
         },
@@ -81,7 +81,7 @@
         "it": {
             "item_name": "Abating Link",
             "description": "Potenziamento Link: Riduce del 60% l'Armatura dei nemici sotto l'effetto dell'Abilità.",
-            "wiki_link": "http://warframe.wikia.com/wiki/Abating_Link",
+            "wiki_link": "https://wiki.warframe.com/w/Abating_Link",
             "icon": "items/images/en/abating_link.c547fa09315093a5ba6c609a9b195580.png",
             "thumb": "items/images/en/thumbs/abating_link.c547fa09315093a5ba6c609a9b195580.128x128.png"
         },
@@ -95,7 +95,7 @@
         "uk": {
             "item_name": "Вгамовний Зв’язок",
             "description": "Розширення здібності «Зв’язок»: на 60% послаблює захист ворогів, поєднаних Зв’язком.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Abating_Link",
+            "wiki_link": "https://wiki.warframe.com/w/Abating_Link",
             "icon": "items/images/en/abating_link.c547fa09315093a5ba6c609a9b195580.png",
             "thumb": "items/images/en/thumbs/abating_link.c547fa09315093a5ba6c609a9b195580.128x128.png"
         }
